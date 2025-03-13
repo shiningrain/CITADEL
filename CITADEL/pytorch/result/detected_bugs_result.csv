@@ -1,0 +1,6 @@
+origin issue number,new buggy APIs
+89903,['torch.Tensor.pow']
+88890,['torch.Tensor.triangular_solve']
+88658,"['torch.nn.LazyLinear', 'torch.nn.LSTMCell', 'torch.nn.GRUCell', 'torch.nn.TransformerDecoder', 'torch.optim.lr_scheduler.LinearLR']"
+88464,[]
+87354,['torch.nn.LazyConvTranspose3d']

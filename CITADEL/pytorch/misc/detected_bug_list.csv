@@ -1,0 +1,52 @@
+89903,./cases/total/c89903.py,https://github.com/pytorch/pytorch/issues/89903,1.12.0,"['1.1', '1.12.0', '0.12.0', '11.2']","['negative', 'real', 'pow']",torch.pow,v
+88890,./cases/total/c88890.py,https://github.com/pytorch/pytorch/issues/88890,1.13.0,"['1.13.0', '0.0', '1.5.1', '1.1', '11.7', '0.13.0', '0.14.0']","['triangular_solve', 'transpose', 'solve']",torch.triangular_solve,v
+88658,./cases/total/c88658.py,https://github.com/pytorch/pytorch/issues/88658,1.13.0,"['1.13.0', '1.12.3', '1.1', '0.13.0', '0.14.0']","['Linear', 'any', 'cat']",torch.nn.Linear,s
+88464,./cases/total/c88464.py,https://github.com/pytorch/pytorch/issues/88464,1.13.0,"['1.13.0', '1.1', '0.13.0', '0.14.0']","['negative', 'MaxPool', 'maxpool']",torch.nn.MaxPool1d,s
+87354,./cases/total/c87354.py,https://github.com/pytorch/pytorch/issues/87354,1.12.1,None,"['Conv', 'conv', 'size']",torch.nn.Conv3d,v
+86791,./cases/total/c86791.py,https://github.com/pytorch/pytorch/issues/86791,1.12.1,['1.12.1'],"['clamp_', 'clamp', 'Conv']",torch.nn.Conv2d,s
+86535,./cases/total/c86535.py,https://github.com/pytorch/pytorch/issues/86535,1.12.1,"['0.12.1', '1.12.1', '0.13.1', '1.1', '11.6']","['avgpool', 'AvgPool', 'Conv']",torch.nn.Conv2d,s
+85439,./cases/total/c85439.py,https://github.com/pytorch/pytorch/issues/85439,1.13.0,['1.13.0'],"['aminmax', 'empty', 'amin']",torch.aminmax,s
+85111,./cases/total/c85111.py,https://github.com/pytorch/pytorch/issues/85111,1.13.0,"['1.13.0', '1.1', '0.13.0', '0.14.0']","['float', 'Conv', 'conv']",torch.nn.functional.conv1d,s
+83863,./cases/total/c83863.py,https://github.com/pytorch/pytorch/issues/83863,1.12.1,"['1.1', '1.12.1', '0.13.1', '0.12.1']","['matmul', 'float', 'mul']",torch.matmul,s
+83828,./cases/total/c83828.py,https://github.com/pytorch/pytorch/issues/83828,1.12.1,"['1.0', '0.1.5', '1.12.1', '1.1', '11.6']",['clamp'],torch.clamp,s
+83328,./cases/total/c83328.py,https://github.com/pytorch/pytorch/issues/83328,1.8.1,['1.8.1'],"['float', 'Conv', 'conv']",torch.nn.Conv2d,s
+83314,./cases/total/c83314.py,https://github.com/pytorch/pytorch/issues/83314,1.8.1,['1.8.1'],"['equal', 'cpu', 'randint']",torch.equal,v
+83071,./cases/total/c83071.py,https://github.com/pytorch/pytorch/issues/83071,1.8.1,['1.8.1'],"['adaptive_max_pool', 'max_pool', 'negative']",torch.nn.functional.adaptive_max_pool1d,v
+82494,./cases/total/c82494.py,https://github.com/pytorch/pytorch/issues/82494,None,None,"['clamp', 'cpu', 'sin']",torch.clamp,s
+82107,./cases/total/c82107.py,https://github.com/pytorch/pytorch/issues/82107,None,None,"['sparse_', 'softmax', 'Softmax']",torch.sparse.softmax,s
+82060,./cases/total/c82060.py,https://github.com/pytorch/pytorch/issues/82060,1.12.0,"['1.12.0', '0.12.0', '1.1']","['Conv', 'conv', 'sin']",torch.nn.Conv2d,v
+81548,./cases/total/c81548.py,https://github.com/pytorch/pytorch/issues/81548,1.12.0,"['1.6.0', '1.1', '1.12.0', '0.12.0', '11.3', '0.13.0']","['relu6', 'ReLU6', 'relu']",torch.nn.ReLU6,p
+80770,./cases/total/c80770.py,https://github.com/pytorch/pytorch/issues/80770,1.11.0,['1.11.0'],"['gradient', 'xlogy', 'log']",torch.xlogy,s
+80735,./cases/total/c80735.py,https://github.com/pytorch/pytorch/issues/80735,1.10.0,"['1.1', '11.0']","['inverse', 'inv', 'erf']",torch.inverse,p
+77415,./cases/total/c77415.py,https://github.com/pytorch/pytorch/issues/77415,1.11.0,"['1.1', '1.11.0']","['Linear', 'double', 'sub']",torch.nn.Linear,s
+76778,./cases/total/c76778.py,https://github.com/pytorch/pytorch/issues/76778,1.11.0,['1.11.0'],"['addmv', 'add', 'float']",torch.addmv,s
+76522,./cases/total/c76522.py,https://github.com/pytorch/pytorch/issues/76522,1.11.0,"['1.1', '1.11.0']","['gradient', 'clamp', 'dist']",torch.clamp,v
+75781,./cases/total/c75781.py,https://github.com/pytorch/pytorch/issues/75781,1.11.0,"['1.1', '10.2', '0.4.3', '1.11.0']","['irfft', 'real', 'rfft']",torch.fft.irfft,s
+74487,./cases/total/c74487.py,https://github.com/pytorch/pytorch/issues/74487,1.9.0,"['0.10.0', '10.2', '2.0.8', '1.9.0']","['scatter_add', 'scatter_', 'scatter']",torch.scatter_add,p
+73840,./cases/total/c73840.py,https://github.com/pytorch/pytorch/issues/73840,1.10.1,"['1.10.1', '1.1', '10.2']","['max_pool', 'max']",torch.nn.functional.max_pool1d,s
+73628,./cases/total/c73628.py,https://github.com/pytorch/pytorch/issues/73628,1.10.1,['1.10.1'],"['kthvalue', 'ger']",torch.kthvalue,s
+72910,./cases/total/c72910.py,https://github.com/pytorch/pytorch/issues/72910,1.10.1,['1.10.1'],"['irfft2', 'rfftn', 'rfft2']",torch.fft.irfft2,s
+71636,./cases/total/c71636.py,https://github.com/pytorch/pytorch/issues/71636,1.10.1,['1.10.1'],"['median', 'empty']",torch.median,v
+71080,./cases/total/c71080.py,https://github.com/pytorch/pytorch/issues/71080,1.10.1,['1.10.1'],"['float', 'Conv', 'conv']",torch.nn.functional.conv2d,s
+70954,./cases/total/c70954.py,https://github.com/pytorch/pytorch/issues/70954,1.10.0,None,"['Conv', 'conv', 'div']",torch.nn.Conv2d,p
+70675,./cases/total/c70675.py,https://github.com/pytorch/pytorch/issues/70675,1.10.1,['1.10.1'],"['index_select', 'select', 'empty']",torch.index_select,v
+70674,./cases/total/c70674.py,https://github.com/pytorch/pytorch/issues/70674,1.10.1,['1.10.1'],"['empty', 'amax', 'rand']",torch.amax,s
+70664,./cases/total/c70664.py,https://github.com/pytorch/pytorch/issues/70664,1.8.1,['1.8.1'],"['rfft2', 'fft2', 'rfft']",torch.fft.rfft2,s
+70523,./cases/total/c70523.py,https://github.com/pytorch/pytorch/issues/70523,1.10.0,"['0.11.0', '0.2.0', '1.1', '1.10.0', '11.3']","['Conv', 'conv']",torch.nn.Conv2d,s
+70486,./cases/total/c70486.py,https://github.com/pytorch/pytorch/issues/70486,1.10.1,['1.10.1'],"['addcmul', 'addcdiv', 'add']",torch.addcmul,s
+70182,./cases/total/c70182.py,https://github.com/pytorch/pytorch/issues/70182,1.9.0,['1.9.0'],"['Conv', 'conv', 'ger']",torch.all,s
+69801,./cases/total/c69801.py,https://github.com/pytorch/pytorch/issues/69801,1.10.0,['1.1'],"['Dropout', 'dropout']",torch.nn.Dropout2d,v
+69786,./cases/total/c69786.py,https://github.com/pytorch/pytorch/issues/69786,None,None,['equal'],torch.equal,s
+69518,./cases/total/c69518.py,https://github.com/pytorch/pytorch/issues/69518,1.10.0,None,"['addmm', 'add', 'empty']",torch.addmm,s
+69432,./cases/total/c69432.py,https://github.com/pytorch/pytorch/issues/69432,1.10.0,None,"['movedim', 'ger', 'dim']",torch.movedim,s
+69270,./cases/total/c69270.py,https://github.com/pytorch/pytorch/issues/69270,1.10.0,None,"['split', 'hsplit']",torch.hsplit,s
+68727,./cases/total/c68727.py,https://github.com/pytorch/pytorch/issues/68727,1.10.0,None,"['MaxUnpool', 'cuda', 'max']",torch.nn.MaxUnpool2d,s
+66402,./cases/total/c66402.py,https://github.com/pytorch/pytorch/issues/66402,None,['5.0'],"['isfinite', 'cpu']",torch.isfinite,v
+65599,./cases/total/c65599.py,https://github.com/pytorch/pytorch/issues/65599,1.9.0,['1.9.0'],"['gradient', 'norm', 'sub']",torch.linalg.matrix_norm,v
+63152,./cases/total/c63152.py,https://github.com/pytorch/pytorch/issues/63152,1.9.0,"['0.10.0', '1.5.3', '11.1', '0.9.0', '0.2.0', '1.5.1', '1.1', '1.9.0']","['rfft', 'fft', 'cuda']",torch.fft.rfft,v
+61656,./cases/total/c61656.py,https://github.com/pytorch/pytorch/issues/61656,1.9.0,"['0.4.1', '1.3', '0.10.0', '10.2', '1.9.0']","['median', 'empty', 'prod']",torch.median,s
+61251,./cases/total/c61251.py,https://github.com/pytorch/pytorch/issues/61251,1.9.0,['1.9.0'],['eig'],torch.linalg.eig,s
+60075,./cases/total/c60075.py,https://github.com/pytorch/pytorch/issues/60075,1.8.1,None,"['Conv', 'conv', 'add']",torch.nn.Conv2d,s
+73622,./cases/total/c73622.py,https://github.com/pytorch/pytorch/issues/73622,1.10.1,"['0.4.0', '0.10.1', '1.10.1', '1.1', '10.2', '0.11.2']","['size', 'cuda', 'det']",torch.det,v
+66072,./cases/total/c66072.py,https://github.com/pytorch/pytorch/issues/66072,1.9.1,"['1.9.1', '1.9.0']","['cholesky_solve', 'cholesky', 'solve']",torch.cholesky_solve,s
+72129,./cases/total/c72129.py,https://github.com/pytorch/pytorch/issues/72129,1.10.2,"['0.10.2', '1.10.2', '1.1', '0.11.3', '11.3']","['Parameter', 'save']",torch.save,s

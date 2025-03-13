@@ -1,0 +1,68 @@
+61642,./cases/total/c61642.py,https://github.com/tensorflow/tensorflow/issues/61642,2.13.0,['2.13.0'],"['MaxPooling1D', 'MaxPool', 'pool']",MaxPooling1D,s,
+61605,./cases/total/c61605.py,https://github.com/tensorflow/tensorflow/issues/61605,2.13.0,['2.13.0'],"['MaxPool2D', 'MaxPool', 'pool']",MaxPool2D,s,
+61603,./cases/total/c61603.py,https://github.com/tensorflow/tensorflow/issues/61603,2.13.0,['2.13.0'],"['MaxPool2D', 'MaxPool', 'pool']",MaxPool2D,s,
+61555,./cases/total/c61555.py,https://github.com/tensorflow/tensorflow/issues/61555,2.11.0,"['22.0', '1.0', '2.11.0']","['histogram_fixed_width', 'histogram']",histogram_fixed_width,s,
+61530,./cases/total/c61530.py,https://github.com/tensorflow/tensorflow/issues/61530,2.11.0,"['22.0', '2.11.0']","['quantize_and_dequantize_v2', 'quantize_and_dequantize', 'Dequantize']",quantize_and_dequantize_v2,s,
+61510,./cases/total/c61510.py,https://github.com/tensorflow/tensorflow/issues/61510,2.13.0,"['2.1', '2.13.0']","['matmul', 'MatMul']",matmul,v,1
+61369,./cases/total/c61369.py,https://github.com/tensorflow/tensorflow/issues/61369,2.11.0,"['2.1', '2.8', '20.04.1']",['StringLookup'],StringLookup,s,
+61257,./cases/total/c61257.py,https://github.com/tensorflow/tensorflow/issues/61257,2.12.0,['2.12.0'],"['LeakyRelu', 'LeakyReLU', 'ReLU']",LeakyReLU,s,
+61163,./cases/total/c61163.py,https://github.com/tensorflow/tensorflow/issues/61163,2.14.0,['2.14.0'],['assert_shapes'],assert_shapes,s,
+60276,./cases/total/c60276.py,https://github.com/tensorflow/tensorflow/issues/60276,2.13.0,"['03.4', '2.13.0', '20.0']","['gather', 'Gather']",Gather,s,
+60201,./cases/total/c60201.py,https://github.com/tensorflow/tensorflow/issues/60201,2.13.0,"['2.13.0', '53.4', '20.0']","['DepthwiseConv2dNativeBackpropInput', 'DepthwiseConv2dNative', 'DepthwiseConv2D']",DepthwiseConv2dNativeBackpropInput,s,
+60195,./cases/total/c60195.py,https://github.com/tensorflow/tensorflow/issues/60195,2.13.0,"['2.13.0', '13.5', '20.0']","['Conv3DBackpropFilterV2', 'Conv3DBackpropFilter', 'Conv3D']",Conv3DBackpropFilterV2,s,
+60147,./cases/total/c60147.py,https://github.com/tensorflow/tensorflow/issues/60147,2.13.0,['2.13.0'],"['ResourceScatterUpdate', 'ScatterUpdate']",ResourceScatterUpdate,s,
+59181,./cases/total/c59181.py,https://github.com/tensorflow/tensorflow/issues/59181,2.9.1,"['2.9.1', '20.0']","['RealDiv', 'real']",tf.raw_ops.RealDiv,s,
+58749,./cases/total/c58749.py,https://github.com/tensorflow/tensorflow/issues/58749,2.11.0,"['2.1', '1.0']","['convert_image_dtype', 'conv']",tf.image.convert_image_dtype,v,1
+58699,./cases/total/c58699.py,https://github.com/tensorflow/tensorflow/issues/58699,2.10.0,['2.1'],"['convert_image_dtype', 'conv']",tf.image.convert_image_dtype,v,1
+58179,./cases/total/c58179.py,https://github.com/tensorflow/tensorflow/issues/58179,2.9.0,"['2.9', '20.0']","['DenseToCSRSparseMatrix', 'dense', 'Dense']",tf.raw_ops.DenseToCSRSparseMatrix,s,
+57935,./cases/total/c57935.py,https://github.com/tensorflow/tensorflow/issues/57935,2.11.0,"['2.11.0', '20.0']","['floor_divide', 'remainder', 'floor_div']",tf.experimental.numpy.floor_divide,s,
+57897,./cases/total/c57897.py,https://github.com/tensorflow/tensorflow/issues/57897,2.11.0,"['18.04.4', '2.11.0']",['resize'],tf.image.resize,s,
+57716,./cases/total/c57716.py,https://github.com/tensorflow/tensorflow/issues/57716,2.11.0,"['18.04.4', '2.11.0']","['unsorted_segment_min', 'segment_min', 'sort']",tf.math.unsorted_segment_min,s,
+57713,./cases/total/c57713.py,https://github.com/tensorflow/tensorflow/issues/57713,2.11.0,"['18.04.4', '2.11.0']","['diag', 'Diag']",tf.linalg.diag,s,
+57495,./cases/total/c57495.py,https://github.com/tensorflow/tensorflow/issues/57495,2.9,"['2.9', '20.0']","['Conv3DBackpropInputV2', 'Conv3DBackpropInput', 'Conv3D']",tf.raw_ops.Conv3DBackpropInputV2,s,
+57489,./cases/total/c57489.py,https://github.com/tensorflow/tensorflow/issues/57489,2.9,"['2.9', '20.0']","['to_dense', 'dense', 'Dense']",tf.sparse.to_dense,s,
+57450,./cases/total/c57450.py,https://github.com/tensorflow/tensorflow/issues/57450,2.9.1,"['2.9.1', '20.0']","['Convolution2DTranspose', 'Convolution2D', 'transpose']",tf.keras.layers.Convolution2DTranspose,s,
+55138,./cases/total/c55138.py,https://github.com/tensorflow/tensorflow/issues/55138,2.7,"['2.7', '16.0']",['adjust_jpeg_quality'],tf.image.adjust_jpeg_quality,v,1
+55035,./cases/total/c55035.py,https://github.com/tensorflow/tensorflow/issues/55035,2.8,"['0.5', '2.8']","['Softmax', 'softmax']",tf.sparse.softmax,s,
+54855,./cases/total/c54855.py,https://github.com/tensorflow/tensorflow/issues/54855,2.7.0,"['2.7.0', '16.0']","['RGBToHSV', 'float16']",tf.raw_ops.RGBToHSV,s,
+54849,./cases/total/c54849.py,https://github.com/tensorflow/tensorflow/issues/54849,2.7.0,"['2.7.0', '16.0']","['row_splits_to_segment_ids', 'Split', 'split']",tf.ragged.row_splits_to_segment_ids,v,1
+54848,./cases/total/c54848.py,https://github.com/tensorflow/tensorflow/issues/54848,2.7.0,"['2.7.0', '16.0', '6.0']","['tensor_diag_part', 'tensor_diag', 'diag_part']",tf.linalg.tensor_diag_part,s,
+54415,./cases/total/c54415.py,https://github.com/tensorflow/tensorflow/issues/54415,2.7.0,"['2.7.0', '16.0', '0.0']","['histogram_fixed_width_bins', 'histogram_fixed_width', 'histogram']",tf.histogram_fixed_width_bins,v,1
+54412,./cases/total/c54412.py,https://github.com/tensorflow/tensorflow/issues/54412,2.7.0,"['2.7.0', '16.0']",['boolean_mask'],tf.boolean_mask,v,1
+53657,./cases/total/c53657.py,https://github.com/tensorflow/tensorflow/issues/53657,2.7.0,"['2.7.0', '16.0']","['Softmax', 'float16', 'softmax']",tf.sparse.softmax,s,
+53655,./cases/total/c53655.py,https://github.com/tensorflow/tensorflow/issues/53655,2.7.0,"['2.7.0', '16.0']","['segment_sum', 'complex']",tf.math.segment_sum,s,
+51936,./cases/total/c51936.py,https://github.com/tensorflow/tensorflow/issues/51936,2.6.0,"['2.6.0', '16.0']","['MaxPooling3D', 'MaxPool', 'pool']",tf.keras.layers.MaxPooling3D,s,
+51618,./cases/total/c51618.py,https://github.com/tensorflow/tensorflow/issues/51618,2.4,"['2.4', '16.0']","['extract_glimpse', 'negative']",tf.image.extract_glimpse,s,
+50992,./cases/total/c50992.py,https://github.com/tensorflow/tensorflow/issues/50992,2.7,"['0.0', '3.9', '4.0', '2.7', '16.0']",['reduce_sum'],tf.reduce_sum,v,1
+50017,./cases/total/c50017.py,https://github.com/tensorflow/tensorflow/issues/50017,2.5.0,"['16.0', '2.4.1', '2.5.0']",['eigh'],tf.linalg.eigh,v,1
+48469,./cases/total/c48469.py,https://github.com/tensorflow/tensorflow/issues/48469,2.4.1,"['2.4.1', '16.0']","['Conv2DTranspose', 'transpose', 'Transpose']",tf.keras.layers.Conv2DTranspose,s,
+47970,./cases/total/c47970.py,https://github.com/tensorflow/tensorflow/issues/47970,2.4.0,"['0.1', '16.0', '2.3.0']","['FloorDiv', 'floordiv', 'floor']",tf.math.floordiv,v,1
+47816,./cases/total/c47816.py,https://github.com/tensorflow/tensorflow/issues/47816,2.4.1,"['2.4.1', '16.0']","['run_functions_eagerly', 'Lambda']",tf.keras.layers.Lambda,s,
+47724,./cases/total/c47724.py,https://github.com/tensorflow/tensorflow/issues/47724,2.4,"['50.1', '2.4', '0.7', '2.2', '0.1', '50.2', '7.9', '500.0']","['Activation', 'gradients', 'gelu']",tf.tanh,v,1
+46914,./cases/total/c46914.py,https://github.com/tensorflow/tensorflow/issues/46914,2.1.0,"['2.1.0', '16.0']",['UpSampling2D'],tf.keras.layers.UpSampling2D,s,
+46900,./cases/total/c46900.py,https://github.com/tensorflow/tensorflow/issues/46900,2.1.0,"['2.1.0', '16.0']","['substr', 'Substr']",substr,s,
+46891,./cases/total/c46891.py,https://github.com/tensorflow/tensorflow/issues/46891,2.1.0,"['2.1.0', '16.0']","['transpose', 'Transpose', 'complex']",transpose,s,
+46888,./cases/total/c46888.py,https://github.com/tensorflow/tensorflow/issues/46888,2.1.0,"['2.1.0', '16.0']","['segment_max', 'Mean']",segment_max,s,
+46700,./cases/total/c46700.py,https://github.com/tensorflow/tensorflow/issues/46700,2.1.0,"['2.1.0', '16.0']",['reduce_prod'],reduce_prod,s,
+46366,./cases/total/c46366.py,https://github.com/tensorflow/tensorflow/issues/46366,2.4.0,"['18.0', '2.4', '2.4.0']","['LayerNormalization', 'Normalization', 'Normal']",LayerNormalization,s,
+46336,./cases/total/c46336.py,https://github.com/tensorflow/tensorflow/issues/46336,2.4,"['2.4', '3.6']","['SparseTensorDenseMatMul', 'InvalidArgumentError', 'matmul']",sparse_dense_matmul,s,
+46168,./cases/total/c46168.py,https://github.com/tensorflow/tensorflow/issues/46168,2.4,"['3.6.8', '16.0', '1.0', '2.0']","['float32', 'Conv2D', 'conv']",conv2d,p,
+45322,./cases/total/c45322.py,https://github.com/tensorflow/tensorflow/issues/45322,2.5.0,"['16.0', '1.0', '2.5.0']",['name_scope'],name_scope,p,1
+45321,./cases/total/c45321.py,https://github.com/tensorflow/tensorflow/issues/45321,2.4.0,"['2.0', '3.6', '2.3.0']","['diag_part', 'diag', 'Diag']",diag_part,s,
+44933,./cases/total/c44933.py,https://github.com/tensorflow/tensorflow/issues/44933,2.4.0,"['2.3.1', '16.0']","['cardinality', 'remainder', 'Unbatch']",cardinality,v,1
+44906,./cases/total/c44906.py,https://github.com/tensorflow/tensorflow/issues/44906,2.4.0,"['16.0', '2.3.0']",['Lambda'],Lambda,s,
+44888,./cases/total/c44888.py,https://github.com/tensorflow/tensorflow/issues/44888,2.4.1,"['2.3.1', '16.0']","['assert_shapes', 'debug']",assert_shapes,s,
+44788,./cases/total/c44788.py,https://github.com/tensorflow/tensorflow/issues/44788,2.2.0,"['2.2.0', '2.0', '16.0', '1.0']",['UniqueWithCountsV2'],UniqueWithCountsV2,v,1
+44768,./cases/total/c44768.py,https://github.com/tensorflow/tensorflow/issues/44768,2.4,['2.4'],['CommunicationOptions'],CommunicationOptions,s,
+44563,./cases/total/c44563.py,https://github.com/tensorflow/tensorflow/issues/44563,2.4.0,"['2.4', '16.0', '2.4.0']",['TensorBoard'],TensorBoard,s,
+44555,./cases/total/c44555.py,https://github.com/tensorflow/tensorflow/issues/44555,2.4.0,"['16.0', '2.3.0']","['convert_to_tensor', 'array', 'conv']",convert_to_tensor,p,1
+43319,./cases/total/c43319.py,https://github.com/tensorflow/tensorflow/issues/43319,2.4.0,"['16.0', '2.3.0']","['Glob', 'glob']",glob,s,
+42878,./cases/total/c42878.py,https://github.com/tensorflow/tensorflow/issues/42878,2.4.0,"['2.0', '2.3', '16.0', '1.0']","['TensorArray', 'array']",TensorArray,s,
+42680,./cases/total/c42680.py,https://github.com/tensorflow/tensorflow/issues/42680,2.4.0,"['16.0', '2.4.0']","['CategoryEncoding', 'start']",CategoryEncoding,s,
+42424,./cases/total/c42424.py,https://github.com/tensorflow/tensorflow/issues/42424,2.4.0,"['2.0', '2.3', '16.0', '1.0']","['Stack', 'stack']",stack,v,1
+42278,./cases/total/c42278.py,https://github.com/tensorflow/tensorflow/issues/42278,2.1.0,"['2.0', '2.1.0', '2.1', '16.0', '1.0']","['fractional_max_pool', 'max_pool', 'negative']",fractional_max_pool,s,
+41504,./cases/total/c41504.py,https://github.com/tensorflow/tensorflow/issues/41504,2.2.0,"['2.2.0', '16.0']","['broadcast_to', 'cast']",broadcast_to,s,
+41370,./cases/total/c41370.py,https://github.com/tensorflow/tensorflow/issues/41370,2.2.0,"['2.2.0', '1.5']","['UnimplementedError', 'complex', 'acos']",acos,s,
+40896,./cases/total/c40896.py,https://github.com/tensorflow/tensorflow/issues/40896,2.2.0,"['2.2.0', '18.0']",['TimeDistributed'],TimeDistributed,s,
+40138,./cases/total/c40138.py,https://github.com/tensorflow/tensorflow/issues/40138,2.2.0,"['2.2.0', '2.0', '16.0', '1.0']","['broadcast_to', 'int32', 'cast']",broadcast_to,s,
+40051,./cases/total/c40051.py,https://github.com/tensorflow/tensorflow/issues/40051,2.2.0,"['2.2.0', '16.0']","['hessians', 'gradients']",hessians,s,

@@ -1,0 +1,6 @@
+origin issue number,potential new bugs
+70954,"['torch.nn.LazyConv2d', 'torch.nn.ConvTranspose2d', 'torch.nn.LazyConvTranspose2d']"
+81548,"['torch.nn.Softplus', 'torch.nn.Hardtanh', 'torch.nn.Hardswish', 'torch.nn.LeakyReLU', 'torch.nn.SELU', 'torch.nn.Hardsigmoid', 'torch.nn.ELU', 'torch.nn.CELU', 'torch.nn.PReLU', 'torch.nn.ReLU']"
+83328,"['torch.nn.LazyConv2d', 'torch.nn.LazyConv3d', 'torch.nn.Conv3d']"
+89903,['torch.Tensor.pow']
+73622,"['torch.linalg.det', 'torch.Tensor.logdet', 'torch.logdet', 'torch.Tensor.det']"

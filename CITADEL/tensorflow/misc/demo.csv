@@ -1,0 +1,1 @@
+61642,./cases/total/c61642.py,https://github.com/tensorflow/tensorflow/issues/61642,2.13.0,['2.13.0'],"['MaxPooling1D', 'MaxPool', 'pool']",MaxPooling1D,s,
